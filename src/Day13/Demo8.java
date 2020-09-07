@@ -3,6 +3,10 @@ package Day13;
 import java.security.PublicKey;
 
 /**
+ *
+ * Why use Sychronization
+ * this is used manily to have coonsistency in the program
+ *
  * producer consumer problem
  *
  * */
