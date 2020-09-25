@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9b1d82-5177-4e10-920e-c87c23028d54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/dbConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/EmployeeDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/EmployeeDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCDemo/dbConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTraining.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,22 +158,22 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="533" y="117" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1600866475258" />
-    <state width="1398" height="259" key="GridCell.Tab.0.bottom" timestamp="1600868641198">
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom" timestamp="1600868883471">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600868641198" />
-    <state width="1398" height="259" key="GridCell.Tab.0.center" timestamp="1600868641197">
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1600868883471" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center" timestamp="1600868883470">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600868641197" />
-    <state width="1398" height="259" key="GridCell.Tab.0.left" timestamp="1600868641196">
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1600868883470" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left" timestamp="1600868883470">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600868641196" />
-    <state width="1398" height="259" key="GridCell.Tab.0.right" timestamp="1600868641198">
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1600868883470" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right" timestamp="1600868883471">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600868641198" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1600868883471" />
     <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1600091561806">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
@@ -213,10 +194,10 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="208" y="23" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1600862200506" />
-    <state x="114" y="48" key="new project wizard" timestamp="1598014478057">
+    <state x="114" y="48" key="new project wizard" timestamp="1601036168951">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="114" y="48" key="new project wizard/0.23.1440.806@0.23.1440.806" timestamp="1598014478057" />
+    <state x="114" y="48" key="new project wizard/0.23.1440.806@0.23.1440.806" timestamp="1601036168951" />
     <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1600263665794">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
